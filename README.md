@@ -3,4 +3,5 @@ This project aimed to explore the relationship between historical traffic data a
 1. Data Integration: Explore data merging and transformation techniques to bridge the gap between traffic district and street-level highway project data.
 2. Model Expansion: Investigate the incorporation of additional factors, such as population growth, economic trends, and government policies, into predictive models for highway construction.
 3. Alternative Data Sources: Investigate the potential of non-traditional data sources, such as satellite imagery or social media, to provide insights into traffic patterns and future construction needs.
+
 While the initial hypothesis was not confirmed, this project yielded valuable learnings about the challenges of analyzing traffic-construction relationships and the need for more holistic approaches to predicting future infrastructure needs. By addressing data limitations and exploring alternative methods, future research can build upon these findings to develop more robust and insightful models for guiding infrastructure development.
